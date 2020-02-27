@@ -8,4 +8,4 @@ https://www.sketchappsources.com/free-source/3114-twitter-profile-template-sketc
 
 ## Preview
 
-![twitter-profile-page](./resources/preview.png)
+https://jpaulodev.github.io/twitter-profile-page/
